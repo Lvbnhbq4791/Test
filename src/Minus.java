@@ -7,6 +7,6 @@ public class Minus {
         this.b = b;
     }
     public void minus(){
-        System.out.println(a - b);
+        System.out.println(a - b + a);
     }
 }

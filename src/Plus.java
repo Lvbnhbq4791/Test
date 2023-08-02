@@ -7,6 +7,6 @@ public class Plus {
         this.b = b;
     }
     public void plus(){
-        System.out.println(a + b);
+        System.out.println(b+a+a);
     }
 }
